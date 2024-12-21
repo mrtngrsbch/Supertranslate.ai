@@ -1,4 +1,5 @@
 # Open source code from our app Supertranslate.ai
+
 Subtitle Videos and add text motion graphics - https://www.supertranslate.ai/
 
 We release several open source utils and associated code in this repository as we explore and develop our app, Supertranslate.ai
